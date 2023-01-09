@@ -1,6 +1,8 @@
 # BlackJack
 BlackJack with Different Reinforcement Learning Algorithm
 
+Investigate the difference between Temporal Difference and Monte Carol Control in short-trajectory game
+
 <p align="center">
   <img width="460" height="300" src=images/blackjack.png>
 </p>
