@@ -36,6 +36,31 @@ In this paper, we will propose three different algorithms to solve the blackjack
 </p>
 
 # Reference
+
+## Papaer
+Miyazaki, K.; Kojima, T.; and Kobayashi, H. 2007. Pro-
+posal and evaluation of the penalty avoiding rational policy
+making algorithm with penalty level. In SICE Annual Con-
+ference 2007, 2766–2773. IEEE.
+
+Perez-Uribe, A., and Sanchez, E. 1998. Blackjack as a
+test bed for learning strategies in neural networks. In 1998
+IEEE International Joint Conference on Neural Networks
+Proceedings. IEEE World Congress on Computational Intel-
+ligence (Cat. No.98CH36227), volume 3, 2022–2027 vol.3.
+
+Silver, D.; Sutton, R. S.; and M ̈uller, M. 2012. Temporal-
+difference search in computer go. Machine learning
+87(2):183–219.
+
+Sutton, R. S., and Barto, A. G. 2018. Reinforcement learn-
+ing: An introduction. MIT press.
+
+Watkins, C. J., and Dayan, P. 1992. Q-learning. Machine
+learning 8(3):279–292.
+
+## Code
+
 https://github.com/jng985/BlackjackEnv_gym/blob/master/plot_utils.py
 
 https://github.com/dennybritz/reinforcement-learning
